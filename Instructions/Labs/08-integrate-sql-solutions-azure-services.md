@@ -3,14 +3,11 @@ lab:
   title: ラボ 8 – SQL ソリューションと Azure サービスを統合する
   module: Integrate SQL solutions with Azure services
   description: この演習は、製品カタログ データベースのデータ API ビルダー構成を作成し、REST および GraphQL エンドポイントを使用して Azure にデプロイするのに役立ちます。
+  duration: 30
   level: 300
-  duration: 30 minutes
   islab: true
-  primarytopics:
-    - Azure SQL Database
-    - Data API Builder
-    - REST
-    - GraphQL
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # SQL ソリューションと Azure サービスの統合

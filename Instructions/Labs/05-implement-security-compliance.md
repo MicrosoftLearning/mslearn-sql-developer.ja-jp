@@ -3,14 +3,11 @@ lab:
   title: ラボ 5 – SQL でセキュリティとコンプライアンスを実装する
   module: Implement security and compliance with SQL
   description: この演習は、動的データ マスクや行レベル セキュリティなどのセキュリティ機能を実装して SQL データベース内の機密データを保護するのに役立ちます。
+  duration: 30
   level: 300
-  duration: 30 minutes
   islab: true
-  primarytopics:
-    - Azure SQL Database
-    - Security
-    - Dynamic Data Masking
-    - Row-Level Security
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # SQL でセキュリティとコンプライアンスを実装する

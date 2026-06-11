@@ -3,13 +3,11 @@ lab:
   title: ラボ 1 – SQL Server でデータベース オブジェクトを設計して実装する
   module: Design and implement database objects with SQL Server
   description: この演習は、テーブル、制約、テンポラル テーブル、JSON 列、インデックスなど、さまざまなデータベース オブジェクトを SQL Server で実装するのに役立ちます。
+  duration: 30
   level: 300
-  duration: 30 minutes
   islab: true
-  primarytopics:
-    - SQL Server
-    - Database Design
-    - T-SQL
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # SQL でデータベース オブジェクトを設計して実装する

@@ -3,13 +3,11 @@ lab:
   title: ラボ 4 – AI 支援ツールを使用して SQL ソリューションを実装する
   module: Implement SQL solutions by using AI-assisted tools
   description: この演習は、GitHub Copilot のような AI 支援開発ツールを使用する一貫した標準での SQL ソリューションの設計と実装に役立ちます。
+  duration: 45
   level: 300
-  duration: 45 minutes
   islab: true
-  primarytopics:
-    - Azure SQL Database
-    - GitHub Copilot
-    - AI-Assisted Development
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # AI 支援ツールを使用して SQL ソリューションを実装する
@@ -36,7 +34,7 @@ lab:
 まず、GitHub Copilot で使用する Azure SQL Database を作成する必要があります。
 
 1. [Azure portal](https://portal.azure.com) にサインインします。
-1. **[Azure SQL]** ページに移動し、リソースメニューで **[Azure SQL Database]** を展開し、**[SQL データベース]** を選択します。
+1. **[Azure SQL]** ページに移動し、リソース メニューで **[Azure SQL Database]** を展開して、**[SQL データベース]** を選択します。
 1. **[+ 作成]** を選択してから、**[SQL データベース]** を選択します。
 1. **[SQL データベースの作成]** ページで必要な情報を入力します。
 

@@ -3,13 +3,11 @@ lab:
   title: 演習 6 - クエリのパフォーマンスを最適化する
   module: Optimize database performance
   description: この演習は、実行プラン、動的管理ビュー (DMV)、クエリ ストアを使用して、Azure SQL Database の低速クエリを調査するのに役立ちます。
+  duration: 45
   level: 300
-  duration: 45 minutes
   islab: true
-  primarytopics:
-    - Azure SQL Database
-    - Query Performance
-    - Query Store
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # クエリ パフォーマンスの最適化

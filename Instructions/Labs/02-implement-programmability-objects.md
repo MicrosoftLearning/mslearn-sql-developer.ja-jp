@@ -3,13 +3,11 @@ lab:
   title: ラボ 2 – SQL でプログラミング オブジェクトを実装する
   module: Implement programmability objects with SQL
   description: この演習は、ビュー、ストアド プロシージャ、関数、トリガーなど、主要な SQL Server プログラミング オブジェクトを作成して使用するのに役立ちます。
+  duration: 45
   level: 300
-  duration: 45 minutes
   islab: true
-  primarytopics:
-    - SQL Server
-    - Stored Procedures
-    - T-SQL
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # SQL でプログラミング オブジェクトを実装する

@@ -3,13 +3,11 @@ lab:
   title: ラボ 3 – 高度な T-SQL クエリを記述する
   module: Write advanced T-SQL queries
   description: この演習は、JSON 関数、CTE、ウィンドウ関数を使って AdventureWorksLT データベースからデータを構築してクエリを実行する練習をするのに役立ちます。
+  duration: 30
   level: 300
-  duration: 30 minutes
   islab: true
-  primarytopics:
-    - T-SQL
-    - JSON
-    - SQL Server
+  status: released
+  targetDate: '2099-01-01'
 ---
 
 # 高度な T-SQL クエリを記述する
